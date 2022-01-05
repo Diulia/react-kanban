@@ -1,5 +1,5 @@
 # react-kanban
-Created with CodeSandbox
+
 
 Aplicação desenvolvida utilizando ReactJS com as seguintes funcionalidades:
 <ul>
